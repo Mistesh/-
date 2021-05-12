@@ -1,0 +1,37 @@
+body {
+  background-color: #DCDCDC;
+}
+
+
+#m1 {
+  margin-top: 25px;
+  font-size: 26pt;
+}
+
+#metro {
+  margin-top: 25px;
+}
+#load {
+  width: 180px;
+  display: none;
+}
+
+.centrize {
+  display: flex;
+  justiny-content: center;
+  margin: 0 auto;
+}
+
+.txt {
+
+  text-align: center;
+}
+
+.mrg {
+  margin-left: 40%;
+}
+
+.form{
+  margin-left: 40%;
+  position: relative;
+}
